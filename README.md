@@ -73,7 +73,7 @@ It demonstrates how basic Excel functions and tools can be leveraged to prepare 
 
 **Nik Hazmi bin Nik Suhaimi**  
 Excel-based data cleaner & business development executive  
-📍 Malaysia | 💼 Aerospace & Investment | 🎓 MBA Candidate
+Malaysia |  Aerospace & Investment | MBA Candidate
 
 ---
 
