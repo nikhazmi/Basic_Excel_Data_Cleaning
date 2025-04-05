@@ -6,12 +6,10 @@ It demonstrates how basic Excel functions and tools can be leveraged to prepare 
 
 #Badges
 
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Test Coverage](https://coveralls.io/repos/github/yourusername/yourrepo/badge.svg)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Excel Project](https://img.shields.io/badge/project-Excel-brightgreen)
-
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-%23007B5E.svg?style=for-the-badge&logo=MIT&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23000000.svg?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
 ```
 
 ## Cleaning Process (Summary)
