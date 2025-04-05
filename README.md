@@ -4,6 +4,14 @@
 This repository documents a simple and effective data cleaning workflow using **Microsoft Excel 2023**, without the use of Power Query. 
 It demonstrates how basic Excel functions and tools can be leveraged to prepare raw data for analysis — perfect for beginners, students, or analysts working in environments with limited tool access.
 
+#Badges
+
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Test Coverage](https://coveralls.io/repos/github/yourusername/yourrepo/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Excel Project](https://img.shields.io/badge/project-Excel-brightgreen)
+
 ```
 
 ## Cleaning Process (Summary)
