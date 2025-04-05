@@ -52,7 +52,7 @@ It demonstrates how basic Excel functions and tools can be leveraged to prepare 
 - Applied **Filters** to columns using `Data → Filter` to explore data inconsistencies.
 - Used **Conditional Formatting** to highlight outliers or errors.
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft Excel 2023
 - Excel formulas: `TRIM`, `SUBSTITUTE`, `LOWER`, `CLEAN`
